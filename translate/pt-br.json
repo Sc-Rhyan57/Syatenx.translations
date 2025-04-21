@@ -1,1 +1,14 @@
+{
+    "MyToggle1": "Exemplo de alternância",
+    "MyToolTip1": "Isto é uma alternância",
+    "MyButton1": "Clique Aqui",
+    "MyDropdown1": "Selecionar Opção",
+    "MySlider1": "Ajustar Valor",
+    
+    "Option1": "Opção 1",
+    "Option2": "Opção 2",
+    "Option3": "Opção 3",
 
+    "language_selector": "Selecionar Idioma",
+    "language_changed": "Idioma alterado para português. Reinicie o script para aplicar as mudanças."
+}
